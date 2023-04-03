@@ -32,8 +32,8 @@ public class App {
         a.connect();
 
         // Extract employee salary information
-        ArrayList<Employee> employees = a.getAllSalaries();
-        a.printSalaries(employees);
+       // ArrayList<Employee> employees = a.getAllSalaries();
+        //a.printSalaries(employees);
 
         // Test the size of the returned data - should be 240124
         //System.out.println(employees.size());
@@ -289,4 +289,18 @@ public class App {
             System.out.println(emp_string);
         }
     }
+
+
+
+    public Department getDepartment(String dept_name){
+        return null;
+    }
+
+    public ArrayList<Employee> getSalariesByDepartment(Department dept){
+        return null;
+    }
+
+
+
+
 }
