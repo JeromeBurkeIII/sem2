@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-      - lab07
+      - integrationtesting_
 jobs:
   UnitTests:
     name: Unit Tests
