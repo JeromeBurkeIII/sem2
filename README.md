@@ -10,3 +10,5 @@ License: [![LICENSE](https://img.shields.io/github/license/JeromeBurkeIII/sem2.s
 
 
 Release: [![Releases](https://img.shields.io/github/release/JeromeBurkeIII/sem2/all.svg?style=flat-square)](https://github.com/JeromeBurkeIII/sem2/releases)
+
+Codecov: [![codecov](https://codecov.io/github/JeromeBurkeIII/sem2/branch/master/graph/badge.svg?token=5G6T6ADKD3)](https://codecov.io/github/JeromeBurkeIII/sem2)
